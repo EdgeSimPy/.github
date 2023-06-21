@@ -14,6 +14,7 @@ EdgeSimPy was designed to streamline the prototyping of resource management poli
 <p align="center">
     <strong>Learn more about EdgeSimPy in the links below:</strong>
     <p align="center"><a href="https://edgesimpy.github.io/" target="_blank">Website</a> &#183;
+    <a href="https://github.com/EdgeSimPy/EdgeSimPy" target="_blank">Source Code</a> &#183;
     <a href="https://edgesimpy.github.io/documentation/" target="_blank">Documentation</a> &#183;
     <a href="https://www.github.com/edgesimpy/edgesimpy-tutorials" target="_blank">Tutorials</a> &#183;
     <a href="https://raw.githubusercontent.com/EdgeSimPy/edgesimpy/master/docs/assets/EdgeSimPy-Paper-FGCS.pdf" target="_blank">Paper</a></p>
