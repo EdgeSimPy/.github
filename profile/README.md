@@ -9,6 +9,18 @@ EdgeSimPy is a Python-based Edge Computing simulator with easy-to-grasp abstract
 
 EdgeSimPy was designed to streamline the prototyping of resource management policies through realistic simulations. To do this, EdgeSimPy provides a set of unique functional abstractions (e.g., container registries, images, and layers) that replicate the application provisioning method of widely used platforms such as [Docker](https://www.docker.com/), allowing seamless integration with repositories like [DockerHub](https://hub.docker.com/).
 
+**The EdgeSimPy paper is published in the Future Generation Computer Systems journal ([link here](https://doi.org/10.1016/j.future.2023.06.013), [PDF here](/docs/assets/EdgeSimPy-Paper-FGCS.pdf)). If you use EdgeSimPy in an academic work, we would appreciate citations according to the following reference:**
+
+```bibtex
+@article{souza2023edgesimpy,
+  title={EdgeSimPy: Python-based modeling and simulation of edge computing resource management policies},
+  author={Souza, Paulo S and Ferreto, Tiago and Calheiros, Rodrigo N},
+  journal={Future Generation Computer Systems},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
 <br>
 
 <p align="center">
