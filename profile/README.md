@@ -18,8 +18,8 @@ EdgeSimPy was designed to streamline the prototyping of resource management poli
     journal={Future Generation Computer Systems},
     year={2023},
     issn={0167-739X},
-    volume={TBD},
-    pages={TBD},
+    volume={148},
+    pages={446-459},
     doi={https://doi.org/10.1016/j.future.2023.06.013},
     publisher={Elsevier}
 }
